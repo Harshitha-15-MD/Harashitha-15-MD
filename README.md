@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-• First-year Computer Science & Engineering student at Vidya Vardahaka College of Engineering, Mysore.<br>• Hands-on experience with Autonomous bots,Frontend and Backend development.<br>• Continuously learning and innovating at the intersection of tech and problem-solving.<br>• 1 x 🥉 and 1 x 🥈 in Hackathon 
+• First-year Computer Science & Engineering student at Vidya Vardahaka College of Engineering, Mysore.<br>• Hands-on experience with Autonomous bots and non autonomous bots<br>•Frontend and Backend development.<br>• Continuously learning and innovating at the intersection of tech and problem-solving.<br>• 1 x 🥉 and 1 x 🥈 in Hackathon 
 ---
 # 🧑🏻‍💻 Current project:
 • Mysuru marga <br>
