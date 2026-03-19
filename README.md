@@ -14,7 +14,7 @@
 • Mysuru marga <br>
 • neon runner<br>
 • IVC website for my club<br>
-• Wome freelance websites 
+• Some freelance websites 
 ---
  <img src="naga.svg"/>
  
