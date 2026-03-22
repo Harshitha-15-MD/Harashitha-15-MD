@@ -521,7 +521,7 @@ motto: >
 <br><br>
 
 <!-- STATUS BADGES -->
-<img src="https://img.shields.io/badge/⚡_FOCUS-Full_Stack_Development-00D4FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/⚡_FOCUS-Full_Stack_Development_+_CyberSecurity_+_AIML-00D4FF?style=for-the-badge&labelColor=0D1117"/>
 &nbsp;
 <img src="https://img.shields.io/badge/📍_BASE-Mysore,_India-00BFFF?style=for-the-badge&labelColor=0D1117"/>
 &nbsp;
