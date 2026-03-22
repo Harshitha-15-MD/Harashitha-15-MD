@@ -27,7 +27,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ABOUT ME SECTION -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp;`⚡ NEURAL_PROFILE.decrypt()`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=ABOUT%20⚡%20ME&fontSize=45&fontColor=00D4FF&animation=fadeIn&fontAlignY=50&desc=NEURAL_PROFILE.decrypt()&descSize=16&descColor=FFFFFF&descAlignY=80" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -105,7 +107,9 @@ motto: >
 ---
 
 <!-- ACTIVE PROJECTS -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;`🚀 ACTIVE_MISSIONS.status()`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=ACTIVE%20🚀%20MISSIONS&fontSize=45&fontColor=00D4FF&animation=fadeIn&fontAlignY=50&desc=ACTIVE_MISSIONS.status()&descSize=16&descColor=FFFFFF&descAlignY=80" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -170,7 +174,9 @@ motto: >
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- TECH STACK - ANIMATED FLOATING ICONS -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp;`⚔️ TECH_ARSENAL.deploy()`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=TECH%20⚔️%20ARSENAL&fontSize=45&fontColor=00D4FF&animation=fadeIn&fontAlignY=50&desc=TECH_ARSENAL.deploy()&descSize=16&descColor=FFFFFF&descAlignY=80" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -179,7 +185,7 @@ motto: >
 
 <br><br>
 
-### ⚡ `// ANIMATED FLOATING ICONS`
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=⚡%20ANIMATED%20FLOATING%20ICONS%20⚡&fontSize=28&fontColor=00BFFF&animation=fadeIn&fontAlignY=55" width="100%"/>
 
 <br>
 
@@ -212,7 +218,7 @@ motto: >
 
 ---
 
-### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="25"> &nbsp;`// PROGRAMMING LANGUAGES`
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=PROGRAMMING%20💻%20LANGUAGES&fontSize=28&fontColor=00BFFF&animation=fadeIn&fontAlignY=55" width="100%"/>
 
 <br>
 
@@ -220,7 +226,7 @@ motto: >
 
 <br><br>
 
-### <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="25"> &nbsp;`// FRAMEWORKS & LIBRARIES`
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=FRAMEWORKS%20⚙️%20LIBRARIES&fontSize=28&fontColor=00BFFF&animation=fadeIn&fontAlignY=55" width="100%"/>
 
 <br>
 
@@ -228,7 +234,7 @@ motto: >
 
 <br><br>
 
-### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25"> &nbsp;`// TOOLS & PLATFORMS`
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=TOOLS%20🛠️%20PLATFORMS&fontSize=28&fontColor=00BFFF&animation=fadeIn&fontAlignY=55" width="100%"/>
 
 <br>
 
@@ -236,7 +242,7 @@ motto: >
 
 <br><br>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> &nbsp;`// DATABASES`
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=🔮%20DATABASES&fontSize=28&fontColor=00BFFF&animation=fadeIn&fontAlignY=55" width="100%"/>
 
 <br>
 
@@ -249,7 +255,9 @@ motto: >
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- SKILL POWER LEVELS -->
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"> &nbsp;`🎮 SKILL_MATRIX.render()`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=SKILL%20🎮%20MATRIX&fontSize=45&fontColor=00D4FF&animation=fadeIn&fontAlignY=50&desc=SKILL_MATRIX.render()&descSize=16&descColor=FFFFFF&descAlignY=80" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -283,7 +291,9 @@ motto: >
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- CONTRIBUTION SNAKE -->
-## 🐍 `> SNAKE_PROTOCOL.execute()`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=SNAKE%20🐍%20PROTOCOL&fontSize=45&fontColor=00D4FF&animation=fadeIn&fontAlignY=50&desc=SNAKE_PROTOCOL.execute()&descSize=16&descColor=FFFFFF&descAlignY=80" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -301,7 +311,9 @@ motto: >
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- GITHUB STATS -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="30"> &nbsp;`📊 SYSTEM_ANALYTICS.scan()`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=SYSTEM%20📊%20ANALYTICS&fontSize=45&fontColor=00D4FF&animation=fadeIn&fontAlignY=50&desc=SYSTEM_ANALYTICS.scan()&descSize=16&descColor=FFFFFF&descAlignY=80" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -334,7 +346,9 @@ motto: >
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- TROPHIES -->
-## 🏆 `> ACHIEVEMENT_VAULT.unlock()`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=ACHIEVEMENT%20🏆%20VAULT&fontSize=45&fontColor=00D4FF&animation=fadeIn&fontAlignY=50&desc=ACHIEVEMENT_VAULT.unlock()&descSize=16&descColor=FFFFFF&descAlignY=80" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -352,7 +366,9 @@ motto: >
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ACTIVITY GRAPH -->
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> &nbsp;`📈 COMMIT_PULSE.monitor()`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=COMMIT%20📈%20PULSE&fontSize=45&fontColor=00D4FF&animation=fadeIn&fontAlignY=50&desc=COMMIT_PULSE.monitor()&descSize=16&descColor=FFFFFF&descAlignY=80" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -370,7 +386,9 @@ motto: >
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- 3D CONTRIBUTION & PROFILE SUMMARY -->
-## 🌌 `> HOLOGRAPHIC_COMMITS.project()`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=HOLOGRAPHIC%20🌌%20COMMITS&fontSize=45&fontColor=00D4FF&animation=fadeIn&fontAlignY=50&desc=HOLOGRAPHIC_COMMITS.project()&descSize=16&descColor=FFFFFF&descAlignY=80" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -392,7 +410,9 @@ motto: >
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- DEEP SCAN ANALYTICS -->
-## <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="30"> &nbsp;`📡 DEEP_SCAN.analyze()`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=DEEP%20📡%20SCAN&fontSize=45&fontColor=00D4FF&animation=fadeIn&fontAlignY=50&desc=DEEP_SCAN.analyze()&descSize=16&descColor=FFFFFF&descAlignY=80" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -420,7 +440,9 @@ motto: >
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- DEV QUOTE -->
-## 💬 `> WISDOM_MODULE.generate()`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=WISDOM%20💬%20MODULE&fontSize=45&fontColor=00D4FF&animation=fadeIn&fontAlignY=50&desc=WISDOM_MODULE.generate()&descSize=16&descColor=FFFFFF&descAlignY=80" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -433,7 +455,9 @@ motto: >
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- METRICS -->
-## <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="30"> &nbsp;`📊 LIVE_METRICS.stream()`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=LIVE%20📊%20METRICS&fontSize=45&fontColor=00D4FF&animation=fadeIn&fontAlignY=50&desc=LIVE_METRICS.stream()&descSize=16&descColor=FFFFFF&descAlignY=80" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -455,7 +479,9 @@ motto: >
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- CONNECT WITH ME -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;`🌐 NETWORK.establish_link()`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=NETWORK%20🌐%20LINK&fontSize=45&fontColor=00D4FF&animation=fadeIn&fontAlignY=50&desc=NETWORK.establish_link()&descSize=16&descColor=FFFFFF&descAlignY=80" width="100%"/>
+</div>
 
 <div align="center">
 
