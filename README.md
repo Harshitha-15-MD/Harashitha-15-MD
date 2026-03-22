@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HACKER HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=220&section=header&text=SRINIVAS%20P&fontSize=70&fontColor=00FF41&fontAlignY=35&desc=%3E_%20CSE%20Undergraduate%20%7C%20Full%20Stack%20Dev%20%7C%20Bot%20Architect&descSize=18&descAlignY=55&descColor=00FF41&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:145A32,50:39FF14,75:7CFC00,100:39FF14&height=220&section=header&text=SRINIVAS%20P&fontSize=70&fontColor=7CFC00&fontAlignY=35&desc=%3E_%20CSE%20Undergraduate%20%7C%20Full%20Stack%20Dev%20%7C%20Bot%20Architect&descSize=18&descAlignY=55&descColor=39FF14&animation=twinkling" width="100%"/>
 
 <!-- TERMINAL INTRO -->
 ```
@@ -15,7 +15,7 @@
 ║   ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝  ╚═╝  ╚═╝╚══════╝                          ║
 ║                                                                                      ║
 ║   [ SYSTEM BOOT ] > Initializing hacker profile...                                   ║
-║   [ STATUS ]      > Connection established ██████████████████████████ 100%            ║
+║   [ STATUS ]      > Connection established ██████████████████████████ 100%           ║
 ║   [ ACCESS ]      > GRANTED ✓                                                        ║
 ║                                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
@@ -287,6 +287,6 @@ drwxr-xr-x  srinivas  srinivas  4096  Mar 22 16:44  ..
 <br><br>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,25:7CFC00,50:39FF14,75:145A32,100:0D1117&height=120&section=footer" width="100%"/>
 
 </div>
