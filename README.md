@@ -1,259 +1,292 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:833AB4,25:FD1D1D,50:FCB045,75:833AB4,100:0D1117&height=230&section=header&text=Srinivas%20P&fontSize=75&fontColor=FFFFFF&fontAlignY=33&desc=CSE%20Undergraduate%20•%20Full%20Stack%20Developer%20•%20Bot%20Architect&descSize=17&descAlignY=55&descColor=FFFFFFCC&animation=fadeIn" width="100%"/>
+<!-- HACKER HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=220&section=header&text=SRINIVAS%20P&fontSize=70&fontColor=00FF41&fontAlignY=35&desc=%3E_%20CSE%20Undergraduate%20%7C%20Full%20Stack%20Dev%20%7C%20Bot%20Architect&descSize=18&descAlignY=55&descColor=00FF41&animation=twinkling" width="100%"/>
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=C678DD&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=530&height=45&lines=%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%F0%9F%94%A5+Passionate+about+clean+code+%26+great+UI;%F0%9F%8E%AF+Turning+caffeine+into+code+since+2006;%F0%9F%92%BB+Full+Stack+Dev+%7C+Bot+Architect+%7C+Freelancer" alt="Typing SVG" /></a>
+<!-- TERMINAL INTRO -->
+```
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                      ║
+║   ███████╗██████╗ ██╗███╗   ██╗██╗██╗   ██╗ █████╗ ███████╗                          ║
+║   ██╔════╝██╔══██╗██║████╗  ██║██║██║   ██║██╔══██╗██╔════╝                          ║
+║   ███████╗██████╔╝██║██╔██╗ ██║██║██║   ██║███████║███████╗                          ║
+║   ╚════██║██╔══██╗██║██║╚██╗██║██║╚██╗ ██╔╝██╔══██║╚════██║                          ║
+║   ███████║██║  ██║██║██║ ╚████║██║ ╚████╔╝ ██║  ██║███████║                          ║
+║   ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝  ╚═╝  ╚═╝╚══════╝                          ║
+║                                                                                      ║
+║   [ SYSTEM BOOT ] > Initializing hacker profile...                                   ║
+║   [ STATUS ]      > Connection established ██████████████████████████ 100%            ║
+║   [ ACCESS ]      > GRANTED ✓                                                        ║
+║                                                                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+```
 
-<br/>
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%24+whoami+%3E+Srinivas+P;%24+cat+role.txt+%3E+Full+Stack+Developer+%7C+Bot+Architect;%24+echo+%22Building+the+future%2C+one+commit+at+a+time%22" alt="Typing SVG" /></a>
 
-<!-- BADGES -->
-<img src="https://komarev.com/ghpvc/?username=srinivas2s&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
-&nbsp;&nbsp;
-<a href="https://github.com/srinivas2s?tab=followers"><img src="https://img.shields.io/github/followers/srinivas2s?label=Followers&style=flat-square&color=blueviolet&labelColor=1a1b27" alt="Followers"/></a>
-&nbsp;&nbsp;
-<a href="https://github.com/srinivas2s?tab=repositories"><img src="https://img.shields.io/badge/Repos-check%20them%20out-blueviolet?style=flat-square&labelColor=1a1b27" alt="Repos"/></a>
+<br>
+
+<!-- PROFILE VIEWS & FOLLOWERS -->
+<img src="https://komarev.com/ghpvc/?username=srinivas2s&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/srinivas2s?label=FOLLOWERS&color=00ff41&style=for-the-badge&labelColor=0D1117&logo=github&logoColor=00ff41" alt="Followers"/>
 
 </div>
 
-<br/>
+---
 
-<!-- ABOUT ME -->
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
+<!-- ABOUT SECTION -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### &nbsp; Hey there! I'm **Srinivas** 👋🏻
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;`> cat /etc/about_me.conf`
 
-<p align="left">
+```yaml
+# ═══════════════════════════════════════════════════════════════
+#  SYSTEM PROFILE: srinivas@github
+# ═══════════════════════════════════════════════════════════════
 
-🎓 &nbsp;CSE Undergraduate at **Vidya Vardhaka College of Engineering**, Mysore\
-🤖 &nbsp;Experienced with **Autonomous & Non-Autonomous Bots**\
-🌐 &nbsp;Full Stack Developer — Frontend to Backend, I do it all\
-🏆 &nbsp;**1x 🥈 Silver** & **1x 🥉 Bronze** in Hackathons\
-🛠️ &nbsp;Currently freelancing and building cool stuff\
-⚡ &nbsp;Fun fact: I debug with `console.log` and I'm not ashamed
+name: "Srinivas P"
+location: "Mysore, India"
+education:
+  degree: "B.E. in Computer Science & Engineering"
+  university: "Vidya Vardhaka College of Engineering, Mysore"
+  year: "Undergraduate"
 
-</p>
+current_focus:
+  - "Full Stack Web Development"
+  - "Autonomous & Non-Autonomous Bots"
+  - "Freelance Web Projects"
+  - "Problem Solving & Innovation"
 
-<br clear="both"/>
+achievements:
+  hackathons:
+    - "🥈 Silver Medal - Hackathon"
+    - "🥉 Bronze Medal - Hackathon"
+
+fun_fact: "I don't just write code — I hack solutions into existence."
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
 <!-- CURRENT PROJECTS -->
-<h2 align="center">🚀 What I'm Working On</h2>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;`> ls -la ~/active_projects/`
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/map-marker.png" width="48" height="48" alt="Map"/>
-<br/><b>Mysuru Marga</b>
-<br/><sub>🟢 City navigation platform</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/controller.png" width="48" height="48" alt="Game"/>
-<br/><b>Neon Runner</b>
-<br/><sub>🟢 Fast-paced game</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/domain.png" width="48" height="48" alt="Website"/>
-<br/><b>IVC Website</b>
-<br/><sub>🟡 Club website</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/code.png" width="48" height="48" alt="Code"/>
-<br/><b>Freelance Projects</b>
-<br/><sub>🔵 Client websites</sub>
-</td>
-</tr>
-</table>
+
+```
+drwxr-xr-x  srinivas  srinivas  4096  Mar 22 16:44  .
+drwxr-xr-x  srinivas  srinivas  4096  Mar 22 16:44  ..
+-rwxr-xr-x  srinivas  srinivas  2048  Mar 22 16:44  mysuru_marga.exe
+-rwxr-xr-x  srinivas  srinivas  1024  Mar 22 16:44  neon_runner.bin
+-rwxr-xr-x  srinivas  srinivas  4096  Mar 22 16:44  IVC_club_website.sh
+-rwxr-xr-x  srinivas  srinivas  3072  Mar 22 16:44  freelance_projects.py
+```
+
 </div>
 
+| 🚀 Project | 📝 Description | ⚡ Status |
+|:---:|:---:|:---:|
+| **Mysuru Marga** | Navigation & city exploration platform | `🟢 Active` |
+| **Neon Runner** | Fast-paced game project | `🟢 Active` |
+| **IVC Website** | Club website for Innovation & Vision Club | `🟡 In Progress` |
+| **Freelance Sites** | Custom web solutions for clients | `🔵 Ongoing` |
+
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- TECH STACK -->
-<h2 align="center">🛠️ Tech Arsenal</h2>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp;`> sudo apt-get install tech-stack`
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/>
-<br/><b>C</b>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/>
-<br/><b>JavaScript</b>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
-<br/><b>Python</b>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/>
-<br/><b>HTML5</b>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/>
-<br/><b>CSS3</b>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
-<br/><b>React</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>
-<br/><b>Node.js</b>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/>
-<br/><b>Tailwind</b>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite"/>
-<br/><b>Vite</b>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase"/>
-<br/><b>Supabase</b>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
-<br/><b>Git</b>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
-<br/><b>GitHub</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/>
-<br/><b>Vercel</b>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
-<br/><b>VS Code</b>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/>
-<br/><b>Figma</b>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
-<br/><b>Linux</b>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/>
-<br/><b>Bash</b>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM"/>
-<br/><b>NPM</b>
-</td>
-</tr>
-</table>
+### 💀 `// WEAPONS OF CHOICE`
+
+<br>
+
+**`> LANGUAGES`**
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=00FF41&color=0D1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=00FF41&color=0D1117)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=00FF41&color=0D1117)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=00FF41&color=0D1117)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=00FF41&color=0D1117)
+
+**`> FRAMEWORKS & LIBRARIES`**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=00FF41&color=0D1117)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=00FF41&color=0D1117)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-48B0F1?style=for-the-badge&logo=tailwind-css&logoColor=00FF41&color=0D1117)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=00FF41&color=0D1117)
+
+**`> TOOLS & PLATFORMS`**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=00FF41&color=0D1117)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=00FF41&color=0D1117)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=00FF41&color=0D1117)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=00FF41&color=0D1117)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=00FF41&color=0D1117)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=00FF41&color=0D1117)
 
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- CONTRIBUTION SNAKE -->
-<h2 align="center">🐍 Contribution Snake</h2>
+## 🐍 `> python3 contribution_snake.py`
 
 <div align="center">
-<img src="naga.svg" alt="Snake animation" width="100%"/>
+<img src="naga.svg" alt="Snake animation" />
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Analytics</h2>
+## 📊 `> neofetch --github-stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Srinivas2s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=C678DD&icon_color=bf91f3&text_color=A9B1D6&ring_color=C678DD&include_all_commits=true&count_private=true" width="49%" alt="Stats"/>
+```
+ ╔═══════════════════════════════════════════════════════╗
+ ║           >>> SCANNING GITHUB DATABASE <<<            ║
+ ║              DECRYPTING USER STATISTICS               ║
+ ║         ████████████████████████████ 100%             ║
+ ╚═══════════════════════════════════════════════════════╝
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=Srinivas2s&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41&ring_color=00FF41" width="49%" alt="Stats"/>
 &nbsp;
-<img src="https://nirzak-streak-stats.vercel.app/?user=Srinivas2s&theme=tokyonight&hide_border=true&background=1a1b27&stroke=C678DD&ring=C678DD&fire=FD1D1D&currStreakLabel=C678DD&sideLabels=C678DD&currStreakNum=A9B1D6&sideNums=A9B1D6&dates=545d74" width="49%" alt="Streak"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Srinivas2s&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=00FF41" width="49%" alt="Streak"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivas2s&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=C678DD&text_color=A9B1D6&layout=compact&langs_count=8" width="42%" alt="Top Languages"/>
-
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-<h2 align="center">📈 Contribution Graph</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Srinivas2s&bg_color=1a1b27&color=C678DD&line=bf91f3&point=FFFFFF&area_color=C678DD&area=true&hide_border=true&custom_title=Srinivas's%20Contribution%20Graph" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivas2s&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00FF41&text_color=00FF41" width="42%" alt="Top Languages"/>
 
 </div>
 
 ---
 
 <!-- TROPHIES -->
-<h2 align="center">🏆 GitHub Trophies</h2>
+## 🏆 `> cat /var/log/achievements.log`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Srinivas2s&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
-
-</div>
-
----
-
-<!-- TOP CONTRIBUTED REPOS -->
-<h2 align="center">🔝 Top Contributed Repos</h2>
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Srinivas2s&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true&bg_color=1a1b27&title_color=C678DD&text_color=A9B1D6" alt="Top Repos"/>
-
-</div>
-
----
-
-<!-- DEV QUOTE -->
-<h2 align="center">💬 Dev Wisdom</h2>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote" width="70%"/>
-
-</div>
-
----
-
-<!-- CONNECT WITH ME -->
-<h2 align="center">🤝 Let's Connect</h2>
-
-<div align="center">
-
-<a href="https://www.instagram.com/srini._23?igsh=OHgwdTE0djdvMzFq"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/srinivas-p-632b79394?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-&nbsp;&nbsp;
-<a href="mailto:srinivas2006.srini@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-&nbsp;&nbsp;
-<a href="https://github.com/Srinivas2s"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-<br/><br/>
-
-<!-- SUBTLE HACKER TOUCH -->
 ```
-> srinivas@github:~$ echo "Thanks for visiting! Let's build something amazing together 🚀"
+[2026-03-22 16:44:47] [SUCCESS] Loading achievement modules...
+[2026-03-22 16:44:47] [INFO]    Decrypting trophy data...
+[2026-03-22 16:44:47] [ACCESS]  GRANTED — Displaying trophies below
 ```
 
+<img src="https://github-profile-trophy.vercel.app/?username=Srinivas2s&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+
 </div>
 
-<br/>
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ACTIVITY GRAPH -->
+## 📈 `> tail -f /var/log/commit_activity.log`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Srinivas2s&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area_color=00FF41&area=true&hide_border=true&custom_title=SRINIVAS%27S%20CONTRIBUTION%20GRAPH%20%3E_%20" alt="Activity Graph" width="95%"/>
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- TOP CONTRIBUTED REPO -->
+## 🔝 `> git log --top-repos`
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Srinivas2s&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41" alt="Top Repos"/>
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- RANDOM DEV QUOTE -->
+## 💬 `> fortune | cowsay -f hacker`
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote_color=00FF41&bg_color=0D1117" alt="Dev Quote"/>
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- CONNECT -->
+## 🌐 `> ssh srinivas@socials`
+
+<div align="center">
+
+```
+ ╔═══════════════════════════════════════════════════════╗
+ ║        >>> ESTABLISHING SECURE CONNECTION <<<         ║
+ ║              HANDSHAKE SUCCESSFUL ✔                   ║
+ ║           CONNECT WITH ME ON THESE PORTS              ║
+ ╚═══════════════════════════════════════════════════════╝
+```
+
+<br>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=00FF41&color=0D1117)](https://www.instagram.com/srini._23?igsh=OHgwdTE0djdvMzFq)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=00FF41&color=0D1117)](https://www.linkedin.com/in/srinivas-p-632b79394?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=00FF41&color=0D1117)](mailto:srinivas2006.srini@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=00FF41&color=0D1117)](https://github.com/Srinivas2s)
+
+</div>
+
+---
+
+<!-- HACKER MATRIX SECTION -->
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│   "The quieter you become, the more you are able to hear."           │
+│                                          — Kali Linux               │
+│                                                                      │
+│   ╔══╗╔══╗╔══╗╔══╗╔══╗╔══╗╔══╗╔══╗╔══╗╔══╗╔══╗╔══╗╔══╗╔══╗       │
+│   ║01║║00║║11║║10║║01║║11║║00║║10║║01║║00║║11║║10║║01║║00║       │
+│   ╚══╝╚══╝╚══╝╚══╝╚══╝╚══╝╚══╝╚══╝╚══╝╚══╝╚══╝╚══╝╚══╝╚══╝       │
+│                                                                      │
+│          [ HACK THE PLANET 🌍 | CODE THE FUTURE 🚀 ]                │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+<!-- METRIC BADGES -->
+<img src="https://img.shields.io/badge/FOCUS-Full_Stack_Development-00FF41?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LIVING-Mysore,_India-00FF41?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-Hacking_24/7-00FF41?style=for-the-badge&labelColor=0D1117"/>
+
+<br><br>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:833AB4,25:FD1D1D,50:FCB045,75:833AB4,100:0D1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=120&section=footer" width="100%"/>
+
+</div>
