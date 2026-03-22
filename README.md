@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED NEON HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,25:0047AB,50:00BFFF,75:00D4FF,100:0047AB&height=280&section=header&text=SRINIVAS%20P&fontSize=85&fontColor=00D4FF&fontAlignY=35&desc=%E2%9A%A1%20CSE%20Undergraduate%20%7C%20Full%20Stack%20Architect%20%7C%20Bot%20Creator%20%E2%9A%A1&descSize=20&descAlignY=56&descColor=00BFFF&animation=twinkling&stroke=00D4FF&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,25:0047AB,50:00BFFF,75:00D4FF,100:0047AB&height=280&section=header&text=SRINIVAS%20P&fontSize=85&fontColor=00D4FF&fontAlignY=35&desc=%E2%9A%A1%20CSE%20Undergraduate%20%7C%20Full%20Stack%20Developer20%E2%9A%A1&descSize=20&descAlignY=56&descColor=00BFFF&animation=twinkling&stroke=00D4FF&strokeWidth=2" width="100%"/>
 
 <!-- ANIMATED GLITCH TYPING -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=140&lines=%E2%9A%A1+NEURAL+INTERFACE+ACTIVATED+%E2%9A%A1;%F0%9F%94%B5+DECRYPTING+DEVELOPER+PROFILE...;%F0%9F%9A%80+WELCOME+TO+THE+MAINFRAME+%F0%9F%9A%80;%F0%9F%92%BB+FULL+STACK+DEVELOPER+%7C" alt="Typing SVG" /></a>
@@ -272,20 +272,20 @@ motto: >
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                    ⚡ SKILL POWER LEVELS ⚡                          ║
+║                    ⚡ SKILL POWER LEVELS ⚡                         ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
 ║  JavaScript    ████████████████████████░░░░  85%  ⚡ ADVANCED        ║
-║  React         ██████████████████████░░░░░░  75%  🔥 PROFICIENT     ║
-║  Next.js       ██████████████████░░░░░░░░░░  65%  🟢 SKILLED        ║
-║  TypeScript    ██████████████████░░░░░░░░░░  65%  🟢 SKILLED        ║
-║  Python        ████████████████████░░░░░░░░  70%  🔥 PROFICIENT     ║
-║  Node.js       ██████████████████████░░░░░░  75%  🔥 PROFICIENT     ║
-║  HTML/CSS      ██████████████████████████░░  90%  ⚡ EXPERT         ║
-║  C Language    ████████████████████░░░░░░░░  70%  🔥 PROFICIENT     ║
+║  React         ██████████████████████░░░░░░  75%  🔥 PROFICIENT      ║
+║  Next.js       ██████████████████░░░░░░░░░░  65%  🟢 SKILLED         ║
+║  TypeScript    ██████████████████░░░░░░░░░░  65%  🟢 SKILLED         ║
+║  Python        ████████████████████░░░░░░░░  70%  🔥 PROFICIENT      ║
+║  Node.js       ██████████████████████░░░░░░  75%  🔥 PROFICIENT      ║
+║  HTML/CSS      ██████████████████████████░░  90%  ⚡ EXPERT          ║
+║  C Language    ████████████████████░░░░░░░░  70%  🔥 PROFICIENT      ║
 ║  Git & GitHub  ████████████████████████░░░░  80%  ⚡ ADVANCED        ║
-║  TailwindCSS   ██████████████████░░░░░░░░░░  65%  🟢 SKILLED        ║
-║  Supabase      ██████████████░░░░░░░░░░░░░░  55%  🟢 SKILLED        ║
+║  TailwindCSS   ██████████████████░░░░░░░░░░  65%  🟢 SKILLED         ║
+║  Supabase      ██████████████░░░░░░░░░░░░░░  55%  🟢 SKILLED         ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
@@ -319,6 +319,13 @@ motto: >
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+```
+ ╔═══════════════════════════════════════════════════════╗
+ ║           >>> SCANNING GITHUB DATABASE <<<            ║
+ ║              DECRYPTING USER STATISTICS               ║
+ ║         ████████████████████████████ 100%             ║
+ ╚═══════════════════════════════════════════════════════╝
+ ```
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=80&section=header&text=SYSTEM%20ANALYTICS&fontSize=45&fontColor=FFFFFF&fontAlignY=65&desc=&descSize=1&animation=fadeIn" width="520"/>
 
@@ -481,6 +488,16 @@ motto: >
 
 <div align="center">
 
+```
+
+ ╔═══════════════════════════════════════════════════════╗
+ ║        >>> ESTABLISHING SECURE CONNECTION <<<         ║   
+ ║                 HANDSHAKE SUCCESSFUL                  ║
+ ║           CONNECT WITH ME ON THESE PORTS              ║   
+ ╚═══════════════════════════════════════════════════════╝
+
+ ```
+
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=80&section=header&text=CONNECT%20WITH%20ME&fontSize=45&fontColor=FFFFFF&fontAlignY=65&desc=&descSize=1&animation=fadeIn" width="520"/>
 
 <br>
@@ -539,7 +556,7 @@ motto: >
 <br><br>
 
 <!-- STATUS BADGES -->
-<img src="https://img.shields.io/badge/⚡_FOCUS-Full_Stack_Development-00D4FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/⚡_FOCUS-Full_Stack_Development_+CyberSecurity_+_AIML-00D4FF?style=for-the-badge&labelColor=0D1117"/>
 &nbsp;
 <img src="https://img.shields.io/badge/📍_BASE-Mysore,_India-00BFFF?style=for-the-badge&labelColor=0D1117"/>
 &nbsp;
