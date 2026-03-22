@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,25:0047AB,50:00BFFF,75:00D4FF,100:0047AB&height=280&section=header&text=SRINIVAS%20P&fontSize=85&fontColor=00D4FF&fontAlignY=35&desc=%E2%9A%A1%20CSE%20Undergraduate%20%7C%20Full%20Stack%20Architect%20%7C%20Bot%20Creator%20%E2%9A%A1&descSize=20&descAlignY=56&descColor=00BFFF&animation=twinkling&stroke=00D4FF&strokeWidth=2" width="100%"/>
 
 <!-- ANIMATED GLITCH TYPING LINE 1 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=140&lines=%E2%9A%A1+NEURAL+INTERFACE+ACTIVATED+%E2%9A%A1;%F0%9F%94%B5+DECRYPTING+DEVELOPER+PROFILE...;%F0%9F%9A%80+WELCOME+TO+THE+MAINFRAME+%F0%9F%9A%80;%F0%9F%92%BB+FULL+STACK+DEVELOPER+%7C+BOT+ARCHITECT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=140&lines=%E2%9A%A1+NEURAL+INTERFACE+ACTIVATED+%E2%9A%A1;%F0%9F%94%B5+DECRYPTING+DEVELOPER+PROFILE...;%F0%9F%9A%80+WELCOME+TO+THE+MAINFRAME+%F0%9F%9A%80;%F0%9F%92%BB+FULL+STACK+DEVELOPER+%7C" alt="Typing SVG" /></a>
 
 <br>
 
@@ -171,7 +171,7 @@ motto: >
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- TECH STACK - BANNER STYLE WITH LOGOS -->
+<!-- TECH STACK - ANIMATED FLOATING ICONS -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp;`⚔️ TECH_ARSENAL.deploy()`
 
 <div align="center">
@@ -181,15 +181,44 @@ motto: >
 
 <br><br>
 
+### ⚡ `// ANIMATED FLOATING ICONS`
+
+<br>
+
+<!-- FLOATING ANIMATED TECH ICONS -->
+<a href="#"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS3" width="65" height="65" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" /></a>
+
+<br><br>
+
+<a href="#"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65" height="65" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" /></a>
+
+<br><br>
+
+---
+
 ### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="25"> &nbsp;`// PROGRAMMING LANGUAGES`
 
 <br>
 
-<a href="#"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=00D4FF&color=0D1117&labelColor=0D1117" height="35"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=00D4FF&color=0D1117&labelColor=0D1117" height="35"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=00D4FF&color=0D1117&labelColor=0D1117" height="35"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=00D4FF&color=0D1117&labelColor=0D1117" height="35"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=00D4FF&color=0D1117&labelColor=0D1117" height="35"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=c,js,python,html,css&theme=dark" alt="Languages" /></a>
 
 <br><br>
 
@@ -197,11 +226,7 @@ motto: >
 
 <br>
 
-<a href="#"><img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=00D4FF&color=0D1117&labelColor=0D1117" height="35"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=00D4FF&color=0D1117&labelColor=0D1117" height="35"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=00D4FF&color=0D1117&labelColor=0D1117" height="35"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=00D4FF&color=0D1117&labelColor=0D1117" height="35"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=00D4FF&color=0D1117&labelColor=0D1117" height="35"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,vite,express&theme=dark" alt="Frameworks" /></a>
 
 <br><br>
 
@@ -209,13 +234,7 @@ motto: >
 
 <br>
 
-<a href="#"><img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=00D4FF&color=0D1117&labelColor=0D1117" height="35"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=00D4FF&color=0D1117&labelColor=0D1117" height="35"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=00D4FF&color=0D1117&labelColor=0D1117" height="35"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=00D4FF&color=0D1117&labelColor=0D1117" height="35"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=00D4FF&color=0D1117&labelColor=0D1117" height="35"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=00D4FF&color=0D1117&labelColor=0D1117" height="35"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=00D4FF&color=0D1117&labelColor=0D1117" height="35"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vercel,supabase,vscode,postman,figma&theme=dark" alt="Tools" /></a>
 
 <br><br>
 
@@ -223,9 +242,7 @@ motto: >
 
 <br>
 
-<a href="#"><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=00D4FF&color=0D1117&labelColor=0D1117" height="35"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=00D4FF&color=0D1117&labelColor=0D1117" height="35"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=00D4FF&color=0D1117&labelColor=0D1117" height="35"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" alt="Databases" /></a>
 
 </div>
 
@@ -245,16 +262,16 @@ motto: >
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                    ⚡ SKILL POWER LEVELS ⚡                          ║
+║                    ⚡ SKILL POWER LEVELS ⚡                         ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║  JavaScript    ████████████████████████░░░░  85%  ⚡ ADVANCED        ║
+║  JavaScript    ████████████████████████░░░░  85%  ⚡ ADVANCED       ║
 ║  React         ██████████████████████░░░░░░  75%  🔥 PROFICIENT     ║
 ║  Python        ████████████████████░░░░░░░░  70%  🔥 PROFICIENT     ║
 ║  Node.js       ██████████████████████░░░░░░  75%  🔥 PROFICIENT     ║
 ║  HTML/CSS      ██████████████████████████░░  90%  ⚡ EXPERT         ║
 ║  C Language    ████████████████████░░░░░░░░  70%  🔥 PROFICIENT     ║
-║  Git & GitHub  ████████████████████████░░░░  80%  ⚡ ADVANCED        ║
+║  Git & GitHub  ████████████████████████░░░░  80%  ⚡ ADVANCED       ║
 ║  TailwindCSS   ██████████████████░░░░░░░░░░  65%  🟢 SKILLED        ║
 ║  Supabase      ██████████████░░░░░░░░░░░░░░  55%  🟢 SKILLED        ║
 ║                                                                      ║
@@ -452,7 +469,7 @@ motto: >
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
-║        ⚡ QUANTUM ENTANGLEMENT CHANNELS AVAILABLE ⚡              ║
+║        ⚡ QUANTUM ENTANGLEMENT CHANNELS AVAILABLE ⚡             ║
 ║                                                                   ║
 ║           Connect with me across the digital realm                ║
 ║                                                                   ║
@@ -481,15 +498,15 @@ motto: >
 ║                                                                           ║
 ║   ╭──────────────────────────────────────────────────────────────────╮    ║
 ║   │                                                                  │    ║
-║   │   "In a world of zeros and ones,                                │    ║
-║   │    be the one who writes the algorithm."                        │    ║
-║   │                                                    — Srinivas   │    ║
+║   │   "In a world of zeros and ones,                                 │    ║
+║   │    be the one who writes the algorithm."                         │    ║
+║   │                                                    — Srinivas    │    ║
 ║   │                                                                  │    ║
 ║   ╰──────────────────────────────────────────────────────────────────╯    ║
 ║                                                                           ║
-║      ┌─────┐  ┌─────┐  ┌─────┐  ┌─────┐  ┌─────┐  ┌─────┐             ║
-║      │ ░▒▓ │  │ ▓▒░ │  │ ░▒▓ │  │ ▓▒░ │  │ ░▒▓ │  │ ▓▒░ │             ║
-║      └─────┘  └─────┘  └─────┘  └─────┘  └─────┘  └─────┘             ║
+║      ┌─────┐  ┌─────┐  ┌─────┐  ┌─────┐  ┌─────┐  ┌─────┐                 ║
+║      │ ░▒▓ │  │ ▓▒░ │  │ ░▒▓ │  │ ▓▒░ │  │ ░▒▓ │  │ ▓▒░ │                 ║
+║      └─────┘  └─────┘  └─────┘  └─────┘  └─────┘  └─────┘                 ║
 ║                                                                           ║
 ║              ⚡ KEEP CODING • KEEP BUILDING • KEEP HACKING ⚡            ║
 ║                                                                           ║
