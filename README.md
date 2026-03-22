@@ -5,7 +5,7 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <!-- ANIMATED NEON HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,10:001a33,30:003366,50:00BFFF,70:00D4FF,90:003366,100:0D1117&height=300&section=header&text=⚡%20SRINIVAS%20P%20⚡&fontSize=75&fontColor=00D4FF&fontAlignY=32&desc=CSE%20Undergraduate%20%7C%20Full%20Stack%20Developer%20%7C%20Code%20Architect&descSize=18&descAlignY=52&descColor=00BFFF&animation=twinkling&stroke=00D4FF&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,10:001a33,30:003366,50:00BFFF,70:00D4FF,90:003366,100:0D1117&height=300&section=header&text=%20SRINIVAS%20P%20&fontSize=75&fontColor=00D4FF&fontAlignY=32&desc=CSE%20Undergraduate%20%7C%20Full%20Stack%20Developer%20%7C%20Code%20Architect&descSize=18&descAlignY=52&descColor=00BFFF&animation=twinkling&stroke=00D4FF&strokeWidth=1" width="100%"/>
 
 <!-- ANIMATED CODING GIF -->
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="80"/>
