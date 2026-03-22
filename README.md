@@ -412,13 +412,6 @@ motto: >
 
 <div align="center">
 
-```
- ╔═══════════════════════════════════════════════════════╗
- ║           >>> SCANNING GITHUB DATABASE <<<            ║
- ║              DECRYPTING USER STATISTICS               ║
- ║         ████████████████████████████ 100%             ║
- ╚═══════════════════════════════════════════════════════╝
- ```
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=80&section=header&text=DEEP%20SCAN%20ANALYTICS&fontSize=45&fontColor=FFFFFF&fontAlignY=65&desc=&descSize=1&animation=fadeIn" width="560"/>
 
@@ -427,6 +420,14 @@ motto: >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=550&height=25&lines=%3E+Running+deep+analysis...;%3E+Generating+intel+reports+%E2%9C%93" alt="Typing SVG" /></a>
 
 <br><br>
+
+```
+ ╔═══════════════════════════════════════════════════════╗
+ ║           >>> SCANNING GITHUB DATABASE <<<            ║
+ ║              DECRYPTING USER STATISTICS               ║
+ ║         ████████████████████████████ 100%             ║
+ ╚═══════════════════════════════════════════════════════╝
+ ```
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srinivas2s&theme=algolia" width="32%" alt="Repos per Language"/>
 &nbsp;
@@ -490,14 +491,6 @@ motto: >
 
 <div align="center">
 
-```
- ╔═══════════════════════════════════════════════════════╗
-  ║        >>> ESTABLISHING SECURE CONNECTION <<<         ║   
- ║                 HANDSHAKE SUCCESSFUL                  ║
-  ║           CONNECT WITH ME ON THESE PORTS              ║   
- ╚═══════════════════════════════════════════════════════╝
- ```
-
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=80&section=header&text=CONNECT%20WITH%20ME&fontSize=45&fontColor=FFFFFF&fontAlignY=65&desc=&descSize=1&animation=fadeIn" width="520"/>
 
 <br>
@@ -505,6 +498,14 @@ motto: >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=550&height=25&lines=%3E+Establishing+secure+connections...;%3E+All+ports+open+%E2%9C%93" alt="Typing SVG" /></a>
 
 <br><br>
+
+```
+ ╔═══════════════════════════════════════════════════════╗
+ ║        >>> ESTABLISHING SECURE CONNECTION <<<         ║   
+ ║                 HANDSHAKE SUCCESSFUL                  ║
+ ║           CONNECT WITH ME ON THESE PORTS              ║   
+ ╚═══════════════════════════════════════════════════════╝
+ ```
 
 <a href="https://www.instagram.com/srini._23?igsh=OHgwdTE0djdvMzFq"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" width="48" height="48"/></a>
 &nbsp;&nbsp;&nbsp;
