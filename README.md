@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ANIMATED NEON HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,25:0047AB,50:00BFFF,75:00D4FF,100:0047AB&height=280&section=header&text=SRINIVAS%20P&fontSize=85&fontColor=00D4FF&fontAlignY=35&desc=%E2%9A%A1%20CSE%20Undergraduate%20%7C%20Full%20Stack%20Developer20%E2%9A%A1&descSize=20&descAlignY=56&descColor=00BFFF&animation=twinkling&stroke=00D4FF&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,25:0047AB,50:00BFFF,75:00D4FF,100:0047AB&height=280&section=header&text=SRINIVAS%20P&fontSize=85&fontColor=00D4FF&fontAlignY=35&desc=%E2%9A%A1%20CSE%20Undergraduate%20%7C%20Full%20Stack%20Developer%E2%9A%A1&descSize=20&descAlignY=56&descColor=00BFFF&animation=twinkling&stroke=00D4FF&strokeWidth=2" width="100%"/>
 
 <!-- ANIMATED GLITCH TYPING -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=140&lines=%E2%9A%A1+NEURAL+INTERFACE+ACTIVATED+%E2%9A%A1;%F0%9F%94%B5+DECRYPTING+DEVELOPER+PROFIL;%F0%9F%9A%80+WELCOME+TO+THE+MAINFRAME+%F0%9F%9A%80;%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=140&lines=%E2%9A%A1+NEURAL+INTERFACE+ACTIVATED+%E2%9A%A1;%F0%9F%94%B5+DECRYPTING+DEVELOPER+PROFILE;%F0%9F%9A%80+WELCOME+TO+THE+MAINFRAME+%F0%9F%9A%80;%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 <br>
 
@@ -320,13 +320,6 @@ motto: >
 
 <div align="center">
 
-```
- ╔═══════════════════════════════════════════════════════╗
- ║           >>> SCANNING GITHUB DATABASE <<<            ║
- ║              DECRYPTING USER STATISTICS               ║
- ║         ████████████████████████████ 100%             ║
- ╚═══════════════════════════════════════════════════════╝
- ```
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=80&section=header&text=SYSTEM%20ANALYTICS&fontSize=45&fontColor=FFFFFF&fontAlignY=65&desc=&descSize=1&animation=fadeIn" width="520"/>
 
@@ -419,6 +412,14 @@ motto: >
 
 <div align="center">
 
+```
+ ╔═══════════════════════════════════════════════════════╗
+ ║           >>> SCANNING GITHUB DATABASE <<<            ║
+ ║              DECRYPTING USER STATISTICS               ║
+ ║         ████████████████████████████ 100%             ║
+ ╚═══════════════════════════════════════════════════════╝
+ ```
+
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=80&section=header&text=DEEP%20SCAN%20ANALYTICS&fontSize=45&fontColor=FFFFFF&fontAlignY=65&desc=&descSize=1&animation=fadeIn" width="560"/>
 
 <br>
@@ -491,9 +492,9 @@ motto: >
 
 ```
  ╔═══════════════════════════════════════════════════════╗
- ║        >>> ESTABLISHING SECURE CONNECTION <<<         ║   
+  ║        >>> ESTABLISHING SECURE CONNECTION <<<         ║   
  ║                 HANDSHAKE SUCCESSFUL                  ║
- ║           CONNECT WITH ME ON THESE PORTS              ║   
+  ║           CONNECT WITH ME ON THESE PORTS              ║   
  ╚═══════════════════════════════════════════════════════╝
  ```
 
