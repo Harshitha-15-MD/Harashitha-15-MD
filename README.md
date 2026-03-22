@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ANIMATED NEON HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,25:0047AB,50:00BFFF,75:00D4FF,100:0047AB&height=280&section=header&text=SRINIVAS%20P&fontSize=85&fontColor=00D4FF&fontAlignY=35&desc=%E2%9A%A1%20CSE%20Undergraduate%20%7C%20Full%20Stack%20Developer%20%E2%9A%A1&descSize=20&descAlignY=56&descColor=00BFFF&animation=twinkling&stroke=00D4FF&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,25:0047AB,50:00BFFF,75:00D4FF,100:0047AB&height=280&section=header&text=SRINIVAS%20P&fontSize=85&fontColor=00D4FF&fontAlignY=35&desc=%E2%9A%A1%20CSE%20Undergraduate%20%7C%20Full%20Stack%20Architect%20%7C%20Bot%20Creator%20%E2%9A%A1&descSize=20&descAlignY=56&descColor=00BFFF&animation=twinkling&stroke=00D4FF&strokeWidth=2" width="100%"/>
 
-<!-- ANIMATED GLITCH TYPING LINE 1 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=140&lines=%E2%9A%A1+NEURAL+INTERFACE+ACTIVATED+%E2%9A%A1;%F0%9F%94%B5+DECRYPTING+DEVELOPER+PROFILE...;%F0%9F%9A%80+WELCOME+TO+THE+MAINFRAME+%F0%9F%9A%80;%F0%9F%92%BB+FULL+STACK+DEVELOPER+%7C" alt="Typing SVG" /></a>
+<!-- ANIMATED GLITCH TYPING -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=140&lines=%E2%9A%A1+NEURAL+INTERFACE+ACTIVATED+%E2%9A%A1;%F0%9F%94%B5+DECRYPTING+DEVELOPER+PROFILE...;%F0%9F%9A%80+WELCOME+TO+THE+MAINFRAME+%F0%9F%9A%80;%F0%9F%92%BB+FULL+STACK+DEVELOPER+%7C+BOT+ARCHITECT" alt="Typing SVG" /></a>
 
 <br>
 
@@ -26,12 +26,16 @@
 <!-- ANIMATED NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ABOUT ME SECTION -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp;`⚡ NEURAL_PROFILE.decrypt()`
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     ABOUT ME SECTION                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- SECOND TYPING ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=80&section=header&text=ABOUT%20ME&fontSize=45&fontColor=FFFFFF&fontAlignY=65&desc=&descSize=1&animation=fadeIn" width="400"/>
+
+<br>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&height=30&lines=%3E+Scanning+identity+module...;%3E+Access+level%3A+ROOT;%3E+Welcome+back%2C+Srinivas!" alt="Typing SVG" /></a>
 
 <br><br>
@@ -102,12 +106,16 @@ motto: >
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ACTIVE PROJECTS -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;`🚀 ACTIVE_MISSIONS.status()`
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     ACTIVE PROJECTS                           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ANIMATED TYPING FOR PROJECTS -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=80&section=header&text=ACTIVE%20MISSIONS&fontSize=45&fontColor=FFFFFF&fontAlignY=65&desc=&descSize=1&animation=fadeIn" width="500"/>
+
+<br>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=450&height=25&lines=%3E+Loading+active+repositories...;%3E+4+missions+currently+deployed" alt="Typing SVG" /></a>
 
 <br><br>
@@ -163,20 +171,23 @@ motto: >
 
 </div>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- TECH STACK - ANIMATED FLOATING ICONS -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp;`⚔️ TECH_ARSENAL.deploy()`
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     TECH ARSENAL                              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ANIMATED TYPING FOR TECH -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=80&section=header&text=TECH%20ARSENAL&fontSize=45&fontColor=FFFFFF&fontAlignY=65&desc=&descSize=1&animation=fadeIn" width="450"/>
+
+<br>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=600&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&height=25&lines=%3E+Installing+tech_stack+modules...;%3E+All+weapons+systems+online+%E2%9C%93" alt="Typing SVG" /></a>
 
 <br><br>
 
-### ⚡ `// ANIMATED FLOATING ICONS`
+### ⚡ ANIMATED FLOATING ICONS
 
 <br>
 
@@ -207,8 +218,9 @@ motto: >
 
 <br><br>
 
+---
 
-### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="25"> &nbsp;`// PROGRAMMING LANGUAGES`
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=50&section=header&text=PROGRAMMING%20LANGUAGES&fontSize=25&fontColor=00D4FF&fontAlignY=70&animation=fadeIn" width="400"/>
 
 <br>
 
@@ -216,7 +228,7 @@ motto: >
 
 <br><br>
 
-### <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="25"> &nbsp;`// FRAMEWORKS & LIBRARIES`
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=50&section=header&text=FRAMEWORKS%20%26%20LIBRARIES&fontSize=25&fontColor=00D4FF&fontAlignY=70&animation=fadeIn" width="450"/>
 
 <br>
 
@@ -224,7 +236,7 @@ motto: >
 
 <br><br>
 
-### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25"> &nbsp;`// TOOLS & PLATFORMS`
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=50&section=header&text=TOOLS%20%26%20PLATFORMS&fontSize=25&fontColor=00D4FF&fontAlignY=70&animation=fadeIn" width="400"/>
 
 <br>
 
@@ -232,7 +244,7 @@ motto: >
 
 <br><br>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> &nbsp;`// DATABASES`
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=50&section=header&text=DATABASES&fontSize=25&fontColor=00D4FF&fontAlignY=70&animation=fadeIn" width="300"/>
 
 <br>
 
@@ -240,31 +252,34 @@ motto: >
 
 </div>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- SKILL POWER LEVELS -->
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"> &nbsp;`🎮 SKILL_MATRIX.render()`
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     SKILL MATRIX                              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ANIMATED TYPING -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=80&section=header&text=SKILL%20MATRIX&fontSize=45&fontColor=FFFFFF&fontAlignY=65&desc=&descSize=1&animation=fadeIn" width="420"/>
+
+<br>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=450&height=25&lines=%3E+Analyzing+skill+power+levels...;%3E+All+systems+calibrated+%E2%9C%93" alt="Typing SVG" /></a>
 
 <br><br>
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                    ⚡ SKILL POWER LEVELS ⚡                         ║
+║                    ⚡ SKILL POWER LEVELS ⚡                          ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║  JavaScript    ████████████████████████░░░░  85%  ⚡ ADVANCED       ║
+║  JavaScript    ████████████████████████░░░░  85%  ⚡ ADVANCED        ║
 ║  React         ██████████████████████░░░░░░  75%  🔥 PROFICIENT     ║
 ║  Python        ████████████████████░░░░░░░░  70%  🔥 PROFICIENT     ║
 ║  Node.js       ██████████████████████░░░░░░  75%  🔥 PROFICIENT     ║
 ║  HTML/CSS      ██████████████████████████░░  90%  ⚡ EXPERT         ║
 ║  C Language    ████████████████████░░░░░░░░  70%  🔥 PROFICIENT     ║
-║  Git & GitHub  ████████████████████████░░░░  80%  ⚡ ADVANCED       ║
+║  Git & GitHub  ████████████████████████░░░░  80%  ⚡ ADVANCED        ║
 ║  TailwindCSS   ██████████████████░░░░░░░░░░  65%  🟢 SKILLED        ║
 ║  Supabase      ██████████████░░░░░░░░░░░░░░  55%  🟢 SKILLED        ║
 ║                                                                      ║
@@ -273,16 +288,18 @@ motto: >
 
 </div>
 
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- CONTRIBUTION SNAKE -->
-## 🐍 `> SNAKE_PROTOCOL.execute()`
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     CONTRIBUTION SNAKE                        -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ANIMATED TYPING -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=80&section=header&text=CONTRIBUTION%20SNAKE&fontSize=45&fontColor=FFFFFF&fontAlignY=65&desc=&descSize=1&animation=fadeIn" width="550"/>
+
+<br>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&height=25&lines=%3E+Deploying+contribution+snake...;%3E+Watch+it+eat+your+commits+%F0%9F%90%8D" alt="Typing SVG" /></a>
 
 <br><br>
@@ -291,27 +308,21 @@ motto: >
 
 </div>
 
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- GITHUB STATS -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="30"> &nbsp;`📊 SYSTEM_ANALYTICS.scan()`
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATS                              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ANIMATED TYPING -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=80&section=header&text=SYSTEM%20ANALYTICS&fontSize=45&fontColor=FFFFFF&fontAlignY=65&desc=&descSize=1&animation=fadeIn" width="520"/>
+
+<br>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=600&height=25&lines=%3E+Scanning+GitHub+database...;%3E+Decrypting+user+statistics...+%E2%9C%93" alt="Typing SVG" /></a>
 
 <br><br>
-
-```
- ╔═══════════════════════════════════════════════════════╗
- ║           >>> SCANNING GITHUB DATABASE <<<            ║
- ║              DECRYPTING USER STATISTICS               ║
- ║         ████████████████████████████ 100%             ║
- ╚═══════════════════════════════════════════════════════╝
-```
 
 <!-- STATS CARDS -->
 <img src="https://github-readme-stats.vercel.app/api?username=Srinivas2s&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D4FF&text_color=00BFFF&icon_color=00D4FF&ring_color=0099FF" width="49%" alt="Stats"/>
@@ -324,15 +335,18 @@ motto: >
 
 </div>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- TROPHIES -->
-## 🏆 `> ACHIEVEMENT_VAULT.unlock()`
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     TROPHIES                                  -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ANIMATED TYPING -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=80&section=header&text=ACHIEVEMENT%20VAULT&fontSize=45&fontColor=FFFFFF&fontAlignY=65&desc=&descSize=1&animation=fadeIn" width="530"/>
+
+<br>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&height=25&lines=%3E+Decrypting+trophy+data...;%3E+Achievements+unlocked+%F0%9F%8F%86" alt="Typing SVG" /></a>
 
 <br><br>
@@ -343,12 +357,16 @@ motto: >
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ACTIVITY GRAPH -->
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> &nbsp;`📈 COMMIT_PULSE.monitor()`
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     ACTIVITY GRAPH                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ANIMATED TYPING -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=80&section=header&text=COMMIT%20PULSE&fontSize=45&fontColor=FFFFFF&fontAlignY=65&desc=&descSize=1&animation=fadeIn" width="420"/>
+
+<br>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=550&height=25&lines=%3E+Monitoring+commit+activity...;%3E+Neural+activity+graph+rendered+%E2%9C%93" alt="Typing SVG" /></a>
 
 <br><br>
@@ -357,16 +375,18 @@ motto: >
 
 </div>
 
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- 3D CONTRIBUTION & PROFILE SUMMARY -->
-## 🌌 `> HOLOGRAPHIC_COMMITS.project()`
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     HOLOGRAPHIC COMMITS                       -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ANIMATED TYPING -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=80&section=header&text=HOLOGRAPHIC%20COMMITS&fontSize=45&fontColor=FFFFFF&fontAlignY=65&desc=&descSize=1&animation=fadeIn" width="560"/>
+
+<br>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=550&height=25&lines=%3E+Projecting+holographic+data...;%3E+Contribution+matrix+visualized+%E2%9C%93" alt="Typing SVG" /></a>
 
 <br><br>
@@ -379,15 +399,18 @@ motto: >
 
 </div>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- DEEP SCAN ANALYTICS -->
-## <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="30"> &nbsp;`📡 DEEP_SCAN.analyze()`
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     DEEP SCAN ANALYTICS                       -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ANIMATED TYPING -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=80&section=header&text=DEEP%20SCAN%20ANALYTICS&fontSize=45&fontColor=FFFFFF&fontAlignY=65&desc=&descSize=1&animation=fadeIn" width="560"/>
+
+<br>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=550&height=25&lines=%3E+Running+deep+analysis...;%3E+Generating+intel+reports+%E2%9C%93" alt="Typing SVG" /></a>
 
 <br><br>
@@ -406,28 +429,34 @@ motto: >
 
 </div>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- DEV QUOTE -->
-## 💬 `> WISDOM_MODULE.generate()`
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     DEV QUOTE                                 -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=80&section=header&text=WISDOM%20MODULE&fontSize=45&fontColor=FFFFFF&fontAlignY=65&desc=&descSize=1&animation=fadeIn" width="460"/>
+
+<br><br>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true&quote_color=00D4FF&bg_color=0D1117" alt="Dev Quote"/>
 
 </div>
 
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- METRICS -->
-## <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="30"> &nbsp;`📊 LIVE_METRICS.stream()`
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     LIVE METRICS                              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ANIMATED TYPING -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=80&section=header&text=LIVE%20METRICS&fontSize=45&fontColor=FFFFFF&fontAlignY=65&desc=&descSize=1&animation=fadeIn" width="420"/>
+
+<br>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=550&height=25&lines=%3E+Streaming+live+metrics...;%3E+All+channels+active+%E2%9C%93" alt="Typing SVG" /></a>
 
 <br><br>
@@ -440,59 +469,58 @@ motto: >
 
 </div>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- CONNECT WITH ME -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;`🌐 NETWORK.establish_link()`
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     CONNECT WITH ME                           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ANIMATED TYPING -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=80&section=header&text=CONNECT%20WITH%20ME&fontSize=45&fontColor=FFFFFF&fontAlignY=65&desc=&descSize=1&animation=fadeIn" width="520"/>
+
+<br>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=550&height=25&lines=%3E+Establishing+secure+connections...;%3E+All+ports+open+%E2%9C%93" alt="Typing SVG" /></a>
 
 <br><br>
 
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║        ⚡ QUANTUM ENTANGLEMENT CHANNELS AVAILABLE ⚡             ║
-║                                                                   ║
-║           Connect with me across the digital realm                ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-<a href="https://www.instagram.com/srini._23?igsh=OHgwdTE0djdvMzFq"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=00D4FF&color=0D1117&labelColor=0D1117" height="35"/></a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/srinivas-p-632b79394?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=00D4FF&color=0D1117&labelColor=0D1117" height="35"/></a>
-&nbsp;&nbsp;
-<a href="mailto:srinivas2006.srini@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=00D4FF&color=0D1117&labelColor=0D1117" height="35"/></a>
-&nbsp;&nbsp;
-<a href="https://github.com/Srinivas2s"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=00D4FF&color=0D1117&labelColor=0D1117" height="35"/></a>
+<a href="https://www.instagram.com/srini._23?igsh=OHgwdTE0djdvMzFq"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" width="48" height="48"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/srinivas-p-632b79394?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="48" height="48"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:srinivas2006.srini@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" width="48" height="48"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Srinivas2s"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="48" height="48"/></a>
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- HACKER OUTRO -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     FOOTER / OUTRO                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=80&section=header&text=THANK%20YOU%20FOR%20VISITING&fontSize=40&fontColor=FFFFFF&fontAlignY=65&desc=&descSize=1&animation=fadeIn" width="600"/>
+
+<br>
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                                                                           ║
 ║   ╭──────────────────────────────────────────────────────────────────╮    ║
 ║   │                                                                  │    ║
-║   │   "In a world of zeros and ones,                                 │    ║
-║   │    be the one who writes the algorithm."                         │    ║
-║   │                                                    — Srinivas    │    ║
+║   │   "In a world of zeros and ones,                                │    ║
+║   │    be the one who writes the algorithm."                        │    ║
+║   │                                                    — Srinivas   │    ║
 ║   │                                                                  │    ║
 ║   ╰──────────────────────────────────────────────────────────────────╯    ║
 ║                                                                           ║
-║      ┌─────┐  ┌─────┐  ┌─────┐  ┌─────┐  ┌─────┐  ┌─────┐                 ║
-║      │ ░▒▓ │  │ ▓▒░ │  │ ░▒▓ │  │ ▓▒░ │  │ ░▒▓ │  │ ▓▒░ │                 ║
-║      └─────┘  └─────┘  └─────┘  └─────┘  └─────┘  └─────┘                 ║
+║      ┌─────┐  ┌─────┐  ┌─────┐  ┌─────┐  ┌─────┐  ┌─────┐             ║
+║      │ ░▒▓ │  │ ▓▒░ │  │ ░▒▓ │  │ ▓▒░ │  │ ░▒▓ │  │ ▓▒░ │             ║
+║      └─────┘  └─────┘  └─────┘  └─────┘  └─────┘  └─────┘             ║
 ║                                                                           ║
 ║              ⚡ KEEP CODING • KEEP BUILDING • KEEP HACKING ⚡            ║
 ║                                                                           ║
@@ -507,7 +535,7 @@ motto: >
 <br><br>
 
 <!-- STATUS BADGES -->
-<img src="https://img.shields.io/badge/⚡_FOCUS-Full_Stack_Development_+_CyberSecurity_+_AIML-00D4FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/⚡_FOCUS-Full_Stack_Development-00D4FF?style=for-the-badge&labelColor=0D1117"/>
 &nbsp;
 <img src="https://img.shields.io/badge/📍_BASE-Mysore,_India-00BFFF?style=for-the-badge&labelColor=0D1117"/>
 &nbsp;
