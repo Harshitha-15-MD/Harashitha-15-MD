@@ -22,7 +22,7 @@
 ```
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%24+whoami+%3E+Srinivas+P;%24+cat+role.txt+%3E+Full+Stack+Developer+%7C+Bot+Architect;%24+echo+%22Building+the+future%2C+one+commit+at+a+time%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%24+whoami+%3E+Srinivas+P;%24+cat+role.txt+%3E+Full+Stack+Developer;%24+echo+%22Building+the+future%2C+one+commit+at+a+time%22" alt="Typing SVG" /></a>
 
 <br>
 
