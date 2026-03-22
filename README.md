@@ -198,23 +198,25 @@ motto: >
 &nbsp;&nbsp;
 <a href="#"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS3" width="65" height="65" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" /></a>
 &nbsp;&nbsp;
 <a href="#"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://techstack-generator.vercel.app/Postgresssql-icon.svg" alt="PostgeressSQL" width="65" height="65" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://techstack-generator.vercel.app/C-icon.svg" alt="C" width="65" height="65" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" /></a>
 
 <br><br>
 
-<a href="#"><img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /></a>
 &nbsp;&nbsp;
 <a href="#"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://techstack-generator.vercel.app/OpenCV-icon.svg" alt="OpenCV" width="65" height="65" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" height="65" /></a>
+&nbsp;&nbsp;
+<a href="#"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65" height="65" /></a>
 
 <br><br>
 
@@ -224,7 +226,7 @@ motto: >
 
 <br>
 
-<a href="#"><img src="https://skillicons.dev/icons?i=c,js,python,html,css&theme=dark" alt="Languages" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=c,js,python,ts,html,css,bash&theme=dark" alt="Languages" /></a>
 
 <br><br>
 
@@ -232,7 +234,7 @@ motto: >
 
 <br>
 
-<a href="#"><img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,vite,express&theme=dark" alt="Frameworks" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,vite,express&theme=dark" alt="Frameworks" /></a>
 
 <br><br>
 
@@ -240,7 +242,7 @@ motto: >
 
 <br>
 
-<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vercel,supabase,vscode,postman,figma&theme=dark" alt="Tools" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vercel,supabase,vscode,npm,postman,canva,figma&theme=dark" alt="Tools" /></a>
 
 <br><br>
 
@@ -270,16 +272,18 @@ motto: >
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                    ⚡ SKILL POWER LEVELS ⚡                         ║
+║                    ⚡ SKILL POWER LEVELS ⚡                          ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║  JavaScript    ████████████████████████░░░░  85%  ⚡ ADVANCED       ║
+║  JavaScript    ████████████████████████░░░░  85%  ⚡ ADVANCED        ║
 ║  React         ██████████████████████░░░░░░  75%  🔥 PROFICIENT     ║
+║  Next.js       ██████████████████░░░░░░░░░░  65%  🟢 SKILLED        ║
+║  TypeScript    ██████████████████░░░░░░░░░░  65%  🟢 SKILLED        ║
 ║  Python        ████████████████████░░░░░░░░  70%  🔥 PROFICIENT     ║
 ║  Node.js       ██████████████████████░░░░░░  75%  🔥 PROFICIENT     ║
 ║  HTML/CSS      ██████████████████████████░░  90%  ⚡ EXPERT         ║
 ║  C Language    ████████████████████░░░░░░░░  70%  🔥 PROFICIENT     ║
-║  Git & GitHub  ████████████████████████░░░░  80%  ⚡ ADVANCED       ║
+║  Git & GitHub  ████████████████████████░░░░  80%  ⚡ ADVANCED        ║
 ║  TailwindCSS   ██████████████████░░░░░░░░░░  65%  🟢 SKILLED        ║
 ║  Supabase      ██████████████░░░░░░░░░░░░░░  55%  🟢 SKILLED        ║
 ║                                                                      ║
