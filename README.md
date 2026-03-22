@@ -1,19 +1,34 @@
 <div align="center">
 
-<!-- ANIMATED NEON HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,25:0047AB,50:00BFFF,75:00D4FF,100:0047AB&height=280&section=header&text=SRINIVAS%20P&fontSize=85&fontColor=00D4FF&fontAlignY=35&desc=%E2%9A%A1%20CSE%20Undergraduate%20%7C%20Full%20Stack%20Developer%E2%9A%A1&descSize=20&descAlignY=56&descColor=00BFFF&animation=twinkling&stroke=00D4FF&strokeWidth=2" width="100%"/>
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░ ANIMATED HERO SECTION ░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<!-- ANIMATED GLITCH TYPING -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=140&lines=%E2%9A%A1+NEURAL+INTERFACE+ACTIVATED+%E2%9A%A1;%F0%9F%94%B5+DECRYPTING+DEVELOPER+PROFILE;%F0%9F%9A%80+WELCOME+TO+THE+MAINFRAME+%F0%9F%9A%80;%F0%9F%92%BB" alt="Typing SVG" /></a>
+<!-- ANIMATED NEON HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,10:001a33,30:003366,50:00BFFF,70:00D4FF,90:003366,100:0D1117&height=300&section=header&text=⚡%20SRINIVAS%20P%20⚡&fontSize=75&fontColor=00D4FF&fontAlignY=32&desc=CSE%20Undergraduate%20%7C%20Full%20Stack%20Developer%20%7C%20Code%20Architect&descSize=18&descAlignY=52&descColor=00BFFF&animation=twinkling&stroke=00D4FF&strokeWidth=1" width="100%"/>
+
+<!-- ANIMATED CODING GIF -->
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="80"/>
 
 <br>
 
-<!-- ANIMATED WAVE -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Hi.gif" width="50">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" /> 
+<!-- ANIMATED TYPING - BIGGER AND BOLDER -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=800&height=60&lines=%3C%2F%3E+FULL+STACK+DEVELOPER;%7B+%7D+CODE+ARCHITECT;%E2%9A%A1+BUILDING+THE+FUTURE;%F0%9F%9A%80+TURNING+IDEAS+INTO+REALITY" alt="Typing SVG" /></a>
+
+<br>
+
+<!-- ANIMATED WAVE + HI -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Hi.gif" width="45">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="45" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="45" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Zap" width="45" />
+
+<br><br>
 
 <!-- ANIMATED "CURRENTLY CODING IN" BADGE -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=1500&pause=300&color=00D4FF&center=true&vCenter=true&repeat=true&width=400&height=22&lines=⚡+Currently+coding+in+JavaScript;⚡+Currently+coding+in+React;⚡+Currently+coding+in+Python;⚡+Currently+coding+in+Next.js;⚡+Currently+coding+in+TypeScript" alt="Currently coding" /></a>
+
 <br><br>
 
 <!-- ANIMATED BADGES -->
@@ -25,8 +40,7 @@
 
 </div>
 
-<!-- ANIMATED NEON DIVIDER 1 -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake" onerror="this.src='https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif'" />
+<!-- ANIMATED NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ══════════════════════════════════════════════════════════════ -->
