@@ -319,6 +319,7 @@ motto: >
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
 ```
  ╔═══════════════════════════════════════════════════════╗
  ║           >>> SCANNING GITHUB DATABASE <<<            ║
@@ -489,13 +490,11 @@ motto: >
 <div align="center">
 
 ```
-
  ╔═══════════════════════════════════════════════════════╗
  ║        >>> ESTABLISHING SECURE CONNECTION <<<         ║   
  ║                 HANDSHAKE SUCCESSFUL                  ║
  ║           CONNECT WITH ME ON THESE PORTS              ║   
  ╚═══════════════════════════════════════════════════════╝
-
  ```
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00D4FF&height=80&section=header&text=CONNECT%20WITH%20ME&fontSize=45&fontColor=FFFFFF&fontAlignY=65&desc=&descSize=1&animation=fadeIn" width="520"/>
