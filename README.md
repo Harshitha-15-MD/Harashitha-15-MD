@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ░░░░░░░░░░░░░░░░ ANIMATED HERO SECTION ░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░ ANIMATED HERO SECTION ░░░░░░░░░░░░░░░░░ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <!-- ANIMATED NEON HEADER BANNER -->
@@ -20,9 +20,7 @@
 <!-- ANIMATED WAVE + HI -->
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Hi.gif" width="45">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="45" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="45" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Zap" width="45" />
+
 
 <br><br>
 
