@@ -18,7 +18,7 @@
 <br>
 
 <!-- ANIMATED WAVE + HI -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Hi.gif" width="45">
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Hi.gif" width="75">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" />
 
 
