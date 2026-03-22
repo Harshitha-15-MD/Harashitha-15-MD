@@ -10,8 +10,10 @@
 
 <!-- ANIMATED WAVE -->
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Hi.gif" width="50">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" /> 
 
+<!-- ANIMATED "CURRENTLY CODING IN" BADGE -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=1500&pause=300&color=00D4FF&center=true&vCenter=true&repeat=true&width=400&height=22&lines=⚡+Currently+coding+in+JavaScript;⚡+Currently+coding+in+React;⚡+Currently+coding+in+Python;⚡+Currently+coding+in+Next.js;⚡+Currently+coding+in+TypeScript" alt="Currently coding" /></a>
 <br><br>
 
 <!-- ANIMATED BADGES -->
@@ -23,7 +25,8 @@
 
 </div>
 
-<!-- ANIMATED NEON DIVIDER -->
+<!-- ANIMATED NEON DIVIDER 1 -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake" onerror="this.src='https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif'" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ══════════════════════════════════════════════════════════════ -->
