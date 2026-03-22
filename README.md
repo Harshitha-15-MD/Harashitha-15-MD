@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,25:0047AB,50:00BFFF,75:00D4FF,100:0047AB&height=280&section=header&text=SRINIVAS%20P&fontSize=85&fontColor=00D4FF&fontAlignY=35&desc=%E2%9A%A1%20CSE%20Undergraduate%20%7C%20Full%20Stack%20Architect%20%7C%20Bot%20Creator%20%E2%9A%A1&descSize=20&descAlignY=56&descColor=00BFFF&animation=twinkling&stroke=00D4FF&strokeWidth=2" width="100%"/>
 
 <!-- ANIMATED GLITCH TYPING -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=140&lines=%E2%9A%A1+NEURAL+INTERFACE+ACTIVATED+%E2%9A%A1;%F0%9F%94%B5+DECRYPTING+DEVELOPER+PROFILE...;%F0%9F%9A%80+WELCOME+TO+THE+MAINFRAME+%F0%9F%9A%80;%F0%9F%92%BB+FULL+STACK+DEVELOPER+%7C+BOT+ARCHITECT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=140&lines=%E2%9A%A1+NEURAL+INTERFACE+ACTIVATED+%E2%9A%A1;%F0%9F%94%B5+DECRYPTING+DEVELOPER+PROFILE...;%F0%9F%9A%80+WELCOME+TO+THE+MAINFRAME+%F0%9F%9A%80;%F0%9F%92%BB+FULL+STACK+DEVELOPER+%7C" alt="Typing SVG" /></a>
 
 <br>
 
@@ -86,8 +86,8 @@ active_campaigns:
   🧩 Problem Solving & Innovation
 
 battle_scars:
-  🥈 Silver Medal — Hackathon
-  🥉 Bronze Medal — Hackathon
+  🥈 Silver Medal — Parivarthan  24-Hours Hackthon
+  🥉 Bronze Medal — Spark Hackthon
 
 currently_learning:
   ⚛️ Advanced React Patterns
@@ -202,17 +202,17 @@ motto: >
 &nbsp;&nbsp;
 <a href="#"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/Postgresssql-icon.svg" alt="PostgeressSQL" width="65" height="65" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/C-icon.svg" alt="C" width="65" height="65" /></a>
 
 <br><br>
 
-<a href="#"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65" /></a>
 &nbsp;&nbsp;
 <a href="#"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" /></a>
 &nbsp;&nbsp;
-<a href="#"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65" height="65" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/OpenCV-icon.svg" alt="OpenCV" width="65" height="65" /></a>
 &nbsp;&nbsp;
 <a href="#"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" /></a>
 
@@ -270,16 +270,16 @@ motto: >
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                    ⚡ SKILL POWER LEVELS ⚡                          ║
+║                    ⚡ SKILL POWER LEVELS ⚡                         ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║  JavaScript    ████████████████████████░░░░  85%  ⚡ ADVANCED        ║
+║  JavaScript    ████████████████████████░░░░  85%  ⚡ ADVANCED       ║
 ║  React         ██████████████████████░░░░░░  75%  🔥 PROFICIENT     ║
 ║  Python        ████████████████████░░░░░░░░  70%  🔥 PROFICIENT     ║
 ║  Node.js       ██████████████████████░░░░░░  75%  🔥 PROFICIENT     ║
 ║  HTML/CSS      ██████████████████████████░░  90%  ⚡ EXPERT         ║
 ║  C Language    ████████████████████░░░░░░░░  70%  🔥 PROFICIENT     ║
-║  Git & GitHub  ████████████████████████░░░░  80%  ⚡ ADVANCED        ║
+║  Git & GitHub  ████████████████████████░░░░  80%  ⚡ ADVANCED       ║
 ║  TailwindCSS   ██████████████████░░░░░░░░░░  65%  🟢 SKILLED        ║
 ║  Supabase      ██████████████░░░░░░░░░░░░░░  55%  🟢 SKILLED        ║
 ║                                                                      ║
@@ -512,15 +512,15 @@ motto: >
 ║                                                                           ║
 ║   ╭──────────────────────────────────────────────────────────────────╮    ║
 ║   │                                                                  │    ║
-║   │   "In a world of zeros and ones,                                │    ║
-║   │    be the one who writes the algorithm."                        │    ║
-║   │                                                    — Srinivas   │    ║
+║   │   "In a world of zeros and ones,                                 │    ║
+║   │    be the one who writes the algorithm."                         │    ║
+║   │                                                    — Srinivas    │    ║
 ║   │                                                                  │    ║
 ║   ╰──────────────────────────────────────────────────────────────────╯    ║
 ║                                                                           ║
-║      ┌─────┐  ┌─────┐  ┌─────┐  ┌─────┐  ┌─────┐  ┌─────┐             ║
-║      │ ░▒▓ │  │ ▓▒░ │  │ ░▒▓ │  │ ▓▒░ │  │ ░▒▓ │  │ ▓▒░ │             ║
-║      └─────┘  └─────┘  └─────┘  └─────┘  └─────┘  └─────┘             ║
+║      ┌─────┐  ┌─────┐  ┌─────┐  ┌─────┐  ┌─────┐  ┌─────┐                 ║
+║      │ ░▒▓ │  │ ▓▒░ │  │ ░▒▓ │  │ ▓▒░ │  │ ░▒▓ │  │ ▓▒░ │                 ║
+║      └─────┘  └─────┘  └─────┘  └─────┘  └─────┘  └─────┘                 ║
 ║                                                                           ║
 ║              ⚡ KEEP CODING • KEEP BUILDING • KEEP HACKING ⚡            ║
 ║                                                                           ║
