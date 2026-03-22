@@ -504,9 +504,9 @@ motto: >
 
 ```
  ╔═══════════════════════════════════════════════════════╗
- ║        >>> ESTABLISHING SECURE CONNECTION <<<         ║   
+    ║        >>> ESTABLISHING SECURE CONNECTION <<<         ║   
  ║                 HANDSHAKE SUCCESSFUL                  ║
- ║           CONNECT WITH ME ON THESE PORTS              ║   
+    ║           CONNECT WITH ME ON THESE PORTS              ║   
  ╚═══════════════════════════════════════════════════════╝
  ```
 
