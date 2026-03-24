@@ -63,7 +63,7 @@
 // ═══════════════════════════════════════
 
 const srinivas = {
-    identity: "Srinivas P",
+    identity: "Harshitha-15-MD",
     base: "📍 Mysore, India",
     
     education: {
